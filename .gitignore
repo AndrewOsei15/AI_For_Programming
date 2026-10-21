@@ -1,1 +1,4 @@
-.ipynb_checkpoints/
+*.bam
+*.fastq.gz
+results/
+tmp/
